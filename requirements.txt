@@ -1,0 +1,8 @@
+google-generativeai
+speechrecognition
+pyaudio
+python-dotenv
+gTTS
+playsound==1.2.2
+geopy
+requests
